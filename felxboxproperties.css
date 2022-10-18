@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+
+}
+
+#container {
+    background-color: #003049;
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+#container div {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+
+}

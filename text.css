@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: yellow underline;
+}
+
+h2 {
+    font-weight: 550;
+    color: purple;
+}
+
+p {
+    text-align: justify;
+}
+
+span {
+    color: gray;
+}
+
+/* for the id
+#month{
+    color:green;
+} */
+
+/* for the class  */
+.month {
+    background-color: red;
+
+}
